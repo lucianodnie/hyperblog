@@ -8,5 +8,6 @@ se recibio del IPSA con el titulo de Bachiller en Ciencias naturales en el año 
 en el año 2020 cuenta con 4 diplomas laborales y son: Electricista, Peluquero, Instructor en kick boxing, Instructor en Ritmos latinos. 
 
 Durante el mes de Abril Luciano comenzo a estudiar en la carrera de Java dentro de la plataforma de Platzi. 
+Completo el Curso de Prework y actualmente esta cursando el Curso Profesional de Git y GitHub.
 
 En este archivo hablaremos de su historia.
