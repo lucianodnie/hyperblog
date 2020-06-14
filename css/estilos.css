@@ -12,7 +12,7 @@ body
 #container
 {
     width: 80%;
-    box-shadow: 0px 2px 20px 0px rgb(0, 37, 5);
+    box-shadow: 0px 2px 20px 0px rgb(0, 0, 0);
     padding: 0;
     text-align: left;
     border: 1px solid #DDD;
@@ -23,7 +23,7 @@ body
 #container #cabecera
 {
     font-size: 25px;
-    box-shadow: 0px 2px 20px 0px rgb(0, 37, 5);
+    box-shadow: 0px 2px 20px 0px rgb(0, 0, 0);
     color: rgb(0, 0, 0);
     font-weight: bold;
     margin: 0px;
@@ -31,20 +31,27 @@ body
     text-align: left;
 }
 
-
-  
-#cabecera logo
+#cabecera #hyperblog
 {
-    border: 3px solid black;
-    width: 10px;
-    padding: 10px;
+    outline-style: none;
+    list-style-type: none;
+    display: inline-block;
+    padding: 0px 100px 0px 0px;
+}
+
+#cabecera {
+}
+  
+#cabecera img
+{
+    width: 80px;
+    padding: 0px 10px 0px 10px;
     vertical-align: middle;
 }
 
 #cabecera #tagline
-{
+{   
     display: inline-block;
-    border: 1px solid red;
     padding: 1px 10px;
     font-weight: normal;
     font-size: 0.8em;
@@ -54,7 +61,6 @@ body
 {
     display: inline-block;
     list-style: none;
-    border: 2px solid black; 
     text-align: left;
     padding: 0px 50px 0px 0px;
 }
@@ -83,4 +89,26 @@ body
     font-size: 30px;
     background: white;
     padding: 10px 20px;
+} 
+
+a {
+    color: rgb(18, 22, 17);
+    text-align: center;
+    font-family: Arial;
+    font-size: auto;
+    text-decoration: none;
+    margin: 1px 10px 10px 30px;
+    display: inline-block;
+    box-shadow: 6px 9px 15px -9px rgba(0,0,0,1);
+}
+
+a:hover {
+    box-shadow: 4px 7px 15px -9px rgba(0,0,0,1);
+    color: rgb(77, 90, 74);
+    text-decoration: underline;
+}
+
+a:active {
+    box-shadow: 0px 0px 0px 0px rgba(30, 31, 30, 0.87);
+    color: rgb(77, 90, 74);
 }
