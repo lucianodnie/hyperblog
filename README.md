@@ -4,6 +4,7 @@
 > - Con envio a domicilio.
 > - Más de 50 diseños diferentes.
 > - Venta por mayor y menor.
+> - Envios en todas las ciudades.
 
 ## En este curso vemos de todo:
 *Todos los comandos de Git.*
