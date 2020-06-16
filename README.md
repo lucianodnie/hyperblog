@@ -5,7 +5,8 @@
 > - Más de 50 diseños diferentes.
 > - Venta por mayor y menor.
 > - Envios en todas las ciudades.
-> - incluye diseños personalizados
+> - incluye diseños personalizadosw
+> - Diverso catalogo de plantas
 
 ## En este curso vemos de todo:
 *Todos los comandos de Git.*
